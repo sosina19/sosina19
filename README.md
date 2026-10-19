@@ -27,22 +27,8 @@ I enjoy learning how software works and building applications that solve real pr
 
 - 🏨 **Betora HMS** — A hotel management system using a modular monolith architecture.
 - 🏫 **EduBridge** — An education information and management platform.
-- 📱 **QR Attendance System** — A team project for QR-based attendance management.
 - 💡 Improving my coding skills through practical projects.
 
----
-
-## 🌱 I'm currently learning
-
-- TypeScript and Angular
-- Backend development and REST APIs
-- SQL and database design
-- Git, GitHub, and collaborative development
-- Software architecture and clean code
-
----
-
-⭐ *Learning every day, building step by step.*
 
 ---
 
