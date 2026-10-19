@@ -1,4 +1,4 @@
-![Sosina's Profile Banner](profile-banner.png)
+![Sosina's Profile Banner](image.png)
 
 <h2 align="center">Hi there, I'm Sosina 👋</h2>
 
