@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Sosina Yeshidnber
 
-<!--
-**sosina19/sosina19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Engineering Student | Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+I am a Software Engineering student passionate about building useful applications, learning new technologies, and solving real-world problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying Software Engineering at Dire Dawa University
+- 🌱 Currently learning Angular, TypeScript, and full-stack development
+- 🛠️ Working with web development, APIs, databases, and Git
+- 🤝 Interested in collaborating on meaningful software projects
+- 📍 Ethiopia
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**
+
+
+**Frontend**
+
+
+
+**Backend & Database**
+
+
+
+**Tools**
+
+
+
+
+---
+
+### 🚀 Featured Projects
+
+#### 🏫 EduBridge
+An education monitoring and information platform designed to support communication and decision-making across educational institutions.
+
+**Technologies:** Next.js, React, Node.js, Express, Prisma, PostgreSQL
+
+#### 🪑 Bzuayehu Furniture
+A furniture shop website project focused on product browsing, inventory management, and customer orders.
+
+**Technologies:** Django, PostgreSQL, HTML, CSS
+
+#### 📱 QR Attendance System
+A team project focused on managing attendance using QR codes and role-based access for administrators, teachers, and students.
+
+---
+
+### 📊 GitHub Statistics
+
+
+---
+
+### 🤝 Connect With Me
+
+
+---
+
+⭐ *Always learning, building, and improving.*
+
+
+
