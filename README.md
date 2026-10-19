@@ -6,7 +6,7 @@ I am a Software Engineering student passionate about building useful application
 
 - 🎓 Studying Software Engineering at Dire Dawa University
 - 🌱 Currently learning Angular, TypeScript, and full-stack development
-- 🛠️ Working with web development, APIs, databases, and Git
+- 🛠️ Working with web development, APIs, databases,mobile app and Git
 - 🤝 Interested in collaborating on meaningful software projects
 - 📍 Ethiopia
 
