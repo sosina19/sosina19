@@ -1,14 +1,48 @@
-# 👋 Hi, I'm Sosina Yeshidnber
+![Sosina's Profile Banner](profile-banner.png)
 
-### 💻 Software Engineering Student | Aspiring Full-Stack Developer
+<h2 align="center">Hi there, I'm Sosina 👋</h2>
 
-I am a Software Engineering student passionate about building useful applications, learning new technologies, and solving real-world problems through code.
+<h3 align="center">Software Engineering Student 💻 | Aspiring Full-Stack Developer 🚀</h3>
 
-- 🎓 Studying Software Engineering at Dire Dawa University
-- 🌱 Currently learning Angular, TypeScript, and full-stack development
-- 🛠️ Working with web development, APIs, databases,mobile app and Git
-- 🤝 Interested in collaborating on meaningful software projects
-- 📍 Ethiopia
+I enjoy learning how software works and building applications that solve real problems. I'm developing my skills in frontend and backend development, databases, and software engineering.
+
+---
+
+## 🤝 Connect with me
+
+<p>
+  <a href="https://github.com/sosina19">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="YOUR_LINKEDIN_PROFILE_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+💬 Feel free to connect with me and discuss software development, projects, and new ideas.
+
+---
+
+## 🔭 I'm currently working on
+
+- 🏨 **Betora HMS** — A hotel management system using a modular monolith architecture.
+- 🏫 **EduBridge** — An education information and management platform.
+- 📱 **QR Attendance System** — A team project for QR-based attendance management.
+- 💡 Improving my coding skills through practical projects.
+
+---
+
+## 🌱 I'm currently learning
+
+- TypeScript and Angular
+- Backend development and REST APIs
+- SQL and database design
+- Git, GitHub, and collaborative development
+- Software architecture and clean code
+
+---
+
+⭐ *Learning every day, building step by step.*
 
 ---
 
