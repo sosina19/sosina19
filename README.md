@@ -12,8 +12,7 @@ I enjoy learning how software works and building applications that solve real pr
 
 ## 🤝 Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sosina19)          
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sosina-yeshidnber)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sosina19)          [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sosina-yeshidnber)
 
 
 💬 Feel free to connect with me and discuss software development, projects, and new ideas.
