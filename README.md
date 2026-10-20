@@ -3,7 +3,7 @@
 <h2 align="center">Hi there, I'm Sosina 👋</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Full-Stack+Developer;Flutter+Mobile+App+Developer&repeat=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=FullStack+Developer;Flutter+Mobile+App+Developer;Software+Engineering+Student;&repeat=true" />
 </p>
 
 I enjoy learning how software works and building applications that solve real problems. I'm developing my skills in frontend and backend development, databases, and software engineering.
