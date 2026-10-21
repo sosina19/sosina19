@@ -63,8 +63,6 @@ An education monitoring and information platform designed to support communicati
 
 **Technologies:** Next.js, React, Node.js, Express, Prisma, PostgreSQL
 
-#### 🪑 Bzuayehu Furniture
-A furniture shop website project focused on product browsing, inventory management, and customer orders.
 
 **Technologies:** Django, PostgreSQL, HTML, CSS
 
