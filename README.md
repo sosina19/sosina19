@@ -54,12 +54,6 @@ I enjoy learning how software works and building applications that solve real pr
 
 ## 🛠️ Tech Stack
 
-
-
-
-
-
-
 ---
 
 ### 🚀 Featured Projects
