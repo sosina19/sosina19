@@ -25,7 +25,6 @@ I enjoy learning how software works and building applications that solve real pr
 - 🏫 **EduBridge** — An education information and management platform.
 - 💡 Improving my coding skills through practical projects.
 
-
 ---
 
 ### 🧰 Tech Stack
@@ -90,6 +89,7 @@ An education monitoring and information platform designed to support communicati
 #### 📱 QR Attendance System
 A team project focused on managing attendance using QR codes and role-based access for administrators, teachers, and students.
 
+**Technologies:** flutter, mongodb 
 ---
 
 ### 📊 GitHub Statistics
