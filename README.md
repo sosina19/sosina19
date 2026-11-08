@@ -92,10 +92,6 @@ A team project focused on managing attendance using QR codes and role-based acce
 **Technologies:** flutter, mongodb 
 ---
 
-### 📊 GitHub Statistics
-
-
----
 
 ### 🤝 Connect With Me
 
