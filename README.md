@@ -68,16 +68,8 @@ I enjoy learning how software works and building applications that solve real pr
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sosina19&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sosina19&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Most Used Languages"
-  />
+  <img src="./profile/stats.svg" height="180" alt="GitHub Statistics" />
+  <img src="./profile/top-langs.svg" height="180" alt="Most Used Languages" />
 </p>
 
 <p align="center">
